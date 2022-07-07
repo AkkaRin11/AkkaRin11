@@ -1,4 +1,4 @@
-Hi, i'm Artem.
+## Hi, i'm Artem.
 
 - 🔭 I’m currently working on CatChat :hammer:
 - 🌱 I’m currently learning Kotlin :children_crossing:
